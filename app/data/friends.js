@@ -37,7 +37,7 @@ var friendsArray = [
 		]
     },
     {
-        name: "Black Panter",
+        name: "Black Panther",
         photo: "https://orig00.deviantart.net/0fd5/f/2014/350/6/5/black_panther_cover_art_by_tracedesign-d89sj8j.png",
         scores: [
 			'5',
